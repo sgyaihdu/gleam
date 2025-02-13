@@ -1,0 +1,22 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/out/include/",
+                "/usr/include/linux",
+                "/usr/include",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/mpp/sample/optee/security_subsys/api_include/mpi",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/bsp/components/gsl/drivers/share_drivers/include/",
+                "/usr/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
