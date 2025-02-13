@@ -1,0 +1,20 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/mpp/cbb/isp/include",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/out/include",
+                "/root/cc/hi3516dv500_011/hi3519dv500/smp/a55_linux/source/mpp/cbb/isp/user/3a/include",
+                ""
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c11",
+            "cppStandard": "gnu++14",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
